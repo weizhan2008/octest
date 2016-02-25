@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info>
+    <id>salary</id>
+    <name>工资条信息</name>
+    <description>My first ownCloud app</description>
+    <licence>AGPL</licence>
+    <author>shenyunsheng</author>
+    <version>0.0.1</version>
+    <namespace>SalaRy</namespace>
+    <category>other</category>
+    <dependencies>
+        <owncloud min-version="8.1" />
+    </dependencies>
+</info>
